@@ -1,3 +1,3 @@
 # LeetCode_Solutions
 
-A repo to all the leetcode problems I solve
+A repo for all the leetcode problems I solve
